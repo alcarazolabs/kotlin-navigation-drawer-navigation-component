@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/fragment_users">
+
+    <fragment
+        android:id="@+id/fragment_users"
+        android:name="com.example.kotlinnavigationdrawer.UsersFragment"
+        android:label="Usuarios"
+        tools:layout="@layout/fragment_users" />
+    <fragment
+        android:id="@+id/fragment_cars"
+        android:name="com.example.kotlinnavigationdrawer.CarsFragment"
+        android:label="Cars"
+        tools:layout="@layout/fragment_cars" />
+    <fragment
+        android:id="@+id/fragment_categories"
+        android:name="com.example.kotlinnavigationdrawer.CategoriesFragment"
+        android:label="Categories"
+        tools:layout="@layout/fragment_categories" />
+    <fragment
+        android:id="@+id/fragment_submenu"
+        android:name="com.example.kotlinnavigationdrawer.SubMenuFragment"
+        android:label="SubMenu"
+        tools:layout="@layout/fragment_sub_menu" />
+</navigation>
