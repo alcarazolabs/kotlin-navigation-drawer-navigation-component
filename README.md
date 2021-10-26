@@ -12,4 +12,4 @@ An example of a navigation drawer with Kotlin using Navigation Component
 
 <strong>By @alcarazolabs | @surflaweb | Freddy Alcarazo | creatorpart@gmail.com </strong>
 <hr>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yK9blYd13Zo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=yK9blYd13Zo
